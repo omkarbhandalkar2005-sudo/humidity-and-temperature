@@ -1,5 +1,5 @@
 // ⚠️ ACTION REQUIRED: Paste your active API key into the string below
-const apiKey = '4c91a4df4a96738d65cd2ca1f6bc640a'; 
+const apiKey = '4c91a4df4a96738d65cd2ca1f6bc640a';
 const city = 'Pune';
 
 // Dynamic Clock Engine
